@@ -1,0 +1,10 @@
+.price{
+    background-color: green;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius: 14px;
+}
+
+.old-price{
+    text-decoration:line-through;
+    
+}
